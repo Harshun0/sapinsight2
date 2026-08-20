@@ -24,21 +24,21 @@ export default function Home() {
       <main className="relative min-h-screen">
         <Navigation />
         <HeroSection />
-        <FeaturesSection />
+        {/* <FeaturesSection /> */}
         <HowItWorksSection />
         <InfrastructureSection />
         {/* <SectorsSection /> */}
         <AgentTypesSection />
         <MetricsSection />
         <WhySection />
-        <IntegrationsSection />
+        {/* <IntegrationsSection /> */}
         <SecuritySection />
         <FaqSection />
             {/* <DevelopersSection />
             <TestimonialsSection />
             <PricingSection /> */}
         {/* <CtaSection /> */}
-        <ContactSection />
+        {/* <ContactSection /> */}
         <FooterSection />
       </main>
     </PageWrapper>
